@@ -15,7 +15,7 @@ To provide a larger solution, we try to present some differents approaches to so
 - Given that we also had to implement different methods, we ensured that the overwhelming part of our proposed solution is function based. So we defined the `cleansing()`, `merge_classes()`, `model_accuracy()`, `underSamp()`, `splitting()`,`tuning()` and `score_summary()` functions to automate some of our results.
 
 At the end of our experience, we arrive as the same conclusion as the author of the article :
-> The `XBGoost algorithm` performs better in the majority of the formulations. 
+> The `XBGoost algorithm` performs better in the majority of the formulations, however the three ways we provided for handling the problem an offer some new perspectives and better understanding.
 
 The only times were it's not the case is when we found out that the Random Forest algorithm has a better accuracy on the train set but the overfitting in the data undermined the confidence in the predictions. We found out also that the `LDA` algorithm can perform a quite good fit to the problem.
 
