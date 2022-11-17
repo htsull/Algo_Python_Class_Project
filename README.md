@@ -1,4 +1,5 @@
 # Algo_Python_Class_Project
+ Project initiated to explore the most famous algorithm im ML.
  
 The problem we are trying to approch here has been subject to some study by Ilyes Talbi, the author of the article [XGBoost vs Random Forest : prédire la gravité d’un accident de la route](https://larevueia.fr/xgboost-vs-random-forest-predire-la-gravite-dun-accident-de-la-route/) published in September 6, 2021 in the IA review. The author proposed as main problem to test and find the better algorithm between `Random Forest` and `XGBoost` in order to predict the gravity of the people who had a road accident in France. The data used in this study can be downloaded on the [Open Data Gouv](http://data.gouv.fr/) website.
 
